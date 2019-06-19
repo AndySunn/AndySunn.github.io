@@ -1,8 +1,8 @@
 ---
-layout:post
-title:测试文章
-author:Andy
-date:2019.6.19
+layout: post
+title:"测试文章"
+author: Andy
+date: 2019.6.19
 ---
 # 我是一级标题
 ## 我是二级标题
