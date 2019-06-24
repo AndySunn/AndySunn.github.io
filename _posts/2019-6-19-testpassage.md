@@ -1,20 +1,9 @@
 ---
 layout: post
-title: "文章-Posts"
+title: "响应式Web设计"
 author: Andy
 date: 2019.6.19
 ---
 
-
-# 我是一级标题
-## 我是二级标题
-### 我是三级标题
- 
-> 这里是引用块
-
-- 无序列表
-- 无序列表
-
-1. saaa
-2. asdsada
-3. fdcsafasd
+# 响应式Web是什么？
+## 从网新专业学的内容实现响应式Web？
