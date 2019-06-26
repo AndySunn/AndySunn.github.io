@@ -9,6 +9,7 @@ html {
 body {
   background: $background-color;
   color: $text-color;
+  font-family: “$global-font-family;
 }
 
 blockquote,
@@ -79,7 +80,6 @@ h5 {
 h6 {
   @include fluid-type($min-vw, $max-vw, $h6-min, $h6-max);
 }
-
 dt {
   font-weight: bold;
 
