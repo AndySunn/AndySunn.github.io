@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: page
 title: Web响应式设计
 excerpt_separator: "<!--more-->"
 categories:
