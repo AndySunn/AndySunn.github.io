@@ -1,9 +1,4 @@
 ---
 layout: home
-image: assets/images/media.png
+image: assets/images/media.jpg
 ---
-<style>
-.intro-title {
-   display: none
-   }
-</style>
