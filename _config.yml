@@ -17,10 +17,10 @@ lang: en-US
 title: Andy
 email:
 description:
-baseurl: "/"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/AndySun-Personal-Blog"
+url: "https://andysunn.github.io"
 author:
-  name:
+  name: AndySun
   twitter:
   picture:
 twitter_username:
