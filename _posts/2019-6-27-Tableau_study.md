@@ -6,8 +6,8 @@ categories:
      - 学习笔记
 ---
 
-+ #### Tableau数据可视化分析的好帮手
-+ #### Tableau，揭秘数据背后的规律与价值
++ Tableau数据可视化分析的好帮手
++ Tableau，揭秘数据背后的规律与价值
 <!--more-->
 
 
