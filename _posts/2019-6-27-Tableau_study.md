@@ -6,8 +6,8 @@ categories:
      - 学习笔记
 ---
 
-+ Tableau数据可视化分析的好帮手
-+ Tableau，揭秘数据背后的规律与价值
++ #### Tableau数据可视化分析的好帮手
++ #### Tableau，揭秘数据背后的规律与价值
 <!--more-->
 
 
@@ -18,7 +18,9 @@ categories:
 1. 用两个字段直接进行计算：
 ![Alt text](/assets/images/tableau_sum.jpg)
 或者 直接在“行”中进行表计算 
+<br>
 ![Alt text](/assets/images/tableau_tip.jpg)
+<br>
 + ### 这是我的一些可视化作品
 ![Alt text](/assets/images/tableau_pit.jpg)
 ![Alt text](/assets/images/tableau_work.jpg)
