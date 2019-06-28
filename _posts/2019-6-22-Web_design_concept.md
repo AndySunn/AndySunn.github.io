@@ -4,6 +4,7 @@ title: Web响应式设计笔记
 excerpt_separator: "<!--more-->"
 categories:
      - 网站设计
+image: assets/images/title-pit.jpg
 ---
 
 + 了解响应式Web概念？
