@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Web响应式设计
+title: Web响应式设计笔记
 excerpt_separator: "<!--more-->"
 categories:
-     - 学习笔记
+     - 网站设计
 ---
 
 + 了解响应式Web概念？
