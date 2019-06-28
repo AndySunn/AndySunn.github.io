@@ -4,6 +4,7 @@ title: "Tebleau，实现你的可视化！"
 excerpt_separator: "<!--more-->"
 categories:
      - 学习笔记
+image: assets/images/tebleau_title.jpg 
 
 ---
 
