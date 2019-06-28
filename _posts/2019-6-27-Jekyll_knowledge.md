@@ -4,6 +4,7 @@ title: "Jekyll，属于你的个人博客！"
 excerpt_separator: "<!--more-->"
 categories:
      - 网站设计
+image: assets/images/Jekyll.jpg
 ---
 
 + [Jekyll是什么？](https://jekyllrb.com/)
