@@ -1,4 +1,4 @@
 ---
 layout: home
-image: assets/images/title.jpg
+image: assets/images/title_pit.jpg
 ---
