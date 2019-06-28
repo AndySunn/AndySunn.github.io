@@ -37,4 +37,4 @@ categories:
  
 + ### 媒体查询—@media 	
   #### 针对不同的媒介来使用不同的样式规则。
-![Alt text](/assets/images/media.png)
+![Alt text](/assets/images/media.jpg)
