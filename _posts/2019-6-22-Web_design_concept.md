@@ -3,7 +3,7 @@ layout: page
 title: Web响应式设计笔记
 excerpt_separator: "<!--more-->"
 categories:
-     - 网站设计
+     - 网页设计
 image: assets/images/Web.jpg
 ---
 

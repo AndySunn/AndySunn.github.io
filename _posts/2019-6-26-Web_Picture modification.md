@@ -3,7 +3,7 @@ layout: post
 title: "PicResize，在线修改图像！"
 excerpt_separator: "<!--more-->"
 categories:
-     - 网站设计
+     - 网页设计
 image: assets/images/web_pit.jpg
 ---
 + ### 这是一个非常快捷的图片自定义尺寸调整工具。
