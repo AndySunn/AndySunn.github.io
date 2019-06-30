@@ -1,5 +1,5 @@
 ---
-title: SVG,初次尝试
+title: SVG,初体验
 excerpt_separator: "<!--more-->"
 categories:
     - SVG
@@ -76,5 +76,5 @@ image: assets/images/svg_title.jpg
   </rect>
 </g></svg>
 
-> 图片加载当中...稍等片刻！
+> 图片加载中...
 > 额，加载了30秒，终于出来了！
