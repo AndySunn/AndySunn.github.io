@@ -11,7 +11,7 @@ image: assets/images/study_title.jpg
 + ### 创意、构图、色彩亦是平面设计的三大要素，如何从这三大要素入手，去做出一份出精致的平面设计呢？
 
 + #### 何为平面设计？
-> 图像+文字的混搭， 创造与组合。
+> 图像+文字的混搭，创造与组合。
 > 关键在于如何进行排版。 纷杂or简约 ，这会带给人们完全不一样的风格。
 例：
 1. 赛博朋克风格（典型代表：电影《头号玩家》）
@@ -19,8 +19,8 @@ image: assets/images/study_title.jpg
 下面是一些剧照，体验一下这种风格——
 ![Alt text](/assets/images/saibopengke.jpg)
 <br>
-![Alt text](/assets/images/touhaowanjia.jpg)
 
+![Alt text](/assets/images/touhaowanjia.jpg)
 2.简约风格
 平面设计最在乎于创意。
 作为网新专业的学生，在大一学习了由罗希老师带的《网络文案与创业写作》、《创意思维训练》课程。
