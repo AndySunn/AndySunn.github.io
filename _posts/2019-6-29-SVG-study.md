@@ -45,7 +45,9 @@ image: assets/images/svg_title.jpg
     |...|...|
 
 + ##### 这是我在svg实践中运用以上元素属性的一些简单代码
+
 ```
+
 <svg height="70">
 <g> 
 <text font-family="microsoft yahei" font-size="20" y="30" x="30" font-color="blue">
@@ -54,7 +56,9 @@ image: assets/images/svg_title.jpg
 </text>
 </g>
 </svg>
+
 ```
+
 ↓以下是效果
 <svg height="70">
   <g> 
