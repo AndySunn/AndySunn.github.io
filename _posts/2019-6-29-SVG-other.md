@@ -17,7 +17,7 @@ image: assets/images/svg_title.jpg
 结果不如所料，没能得到我想要的结果...	
 <br>
 
-接着，我猜测是否可以用<picture>标签来尝试能否实现svg动画效果
+	接着，我猜测是否可以用<picture>标签来尝试能否实现svg动画效果
 于是——
 
 ![Alt text](/assets/images/picture_label.png)
