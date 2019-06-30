@@ -8,6 +8,7 @@ tags:
 image: assets/images/svg_title.jpg    
 ---
 + 遇到的一些难题
+<!--more-->
 
 + ##### 关于<picture>标签
 此前我有想使用jpg格式的图片来实现动画效果，于是我想直接加入图片以及svg动画效果尝试有无反应..
