@@ -23,5 +23,5 @@ image: assets/images/Jekyll.jpg
 ![Alt text](/assets/images/night_face.png)
 
 这个小经历告诉我们当遇到困难卡住时，就不要受到影响陷入深渊，有时候可以找小伙伴寻求帮助，亦可以汲取很多知识。
-+ 
+
 
