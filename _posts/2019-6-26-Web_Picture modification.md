@@ -6,7 +6,7 @@ categories:
      - 网页设计
 image: assets/images/web_pit.jpg
 ---
-+ ### 这是一个非常快捷的图片自定义尺寸调整工具。
++ 这是一个非常快捷的图片自定义尺寸调整工具。
 <!--more-->
 
 [PicResize](https://picresize.com/cn)
