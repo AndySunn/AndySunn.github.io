@@ -24,9 +24,8 @@ image: assets/images/study_title.jpg
 这也是前端开发的趋势。
 
 <center>
-![Alt text](/assets/images/geyouu.gif)
+<img src="assets/images/geyouu.gif">
 </center>
-<br>
 最后的葛优是我对网新专业的看法！
 
 
