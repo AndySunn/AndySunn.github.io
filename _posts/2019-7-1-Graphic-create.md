@@ -5,7 +5,7 @@ categories:
     - 平面设计
 image: assets/images/study_title.jpg
 ---
-+ 脑洞大开！创造一个全新设计！
+脑洞大开！创造一个全新设计！
 <!--more-->
 
 + #### 平面设计最在乎于创意。

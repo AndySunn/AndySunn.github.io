@@ -6,7 +6,7 @@ categories:
      - 学习笔记
 image: assets/images/study_title.jpg
 ---
-+ 转专业？不存在的！
+转专业？不存在的！
 <!--more-->
 
 
