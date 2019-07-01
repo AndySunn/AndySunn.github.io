@@ -1,5 +1,5 @@
 ---
-title: 创意的创造，为你的设计加分
+title: 创意的想法，为你的设计加分
 excerpt_separator: "<!--more-->"
 categories:
     - 平面设计
@@ -22,6 +22,7 @@ image: assets/images/study_title.jpg
 大拇指，蜡烛，挂衣架？...
 这就是一个全新的想法！
 ![Alt text](/assets/images/create_idea.jpg)
+
 通过寻找随机词——发现这个随机词的特性及利益点，创造出你的new idea,在你的平面设计中得以应用。
 + #### 以下是一张随机词图，创造出属于你自己的灯泡吧！
 ![Alt text](/assets/images/create_random.jpg)
