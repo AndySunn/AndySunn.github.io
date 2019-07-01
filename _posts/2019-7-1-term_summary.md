@@ -23,10 +23,11 @@ image: assets/images/study_title.jpg
 > 我们可以看出，全球电子设备(即电脑、手机、平板)屏幕尺寸逐月下降，人们更追求与屏幕设备来满足自己的便捷要求。传统的页面布局并没有响应式的功能，所以现代社会，我们更需要响应式Web设计来适应如今手机大规模推广且占领市场大部分销售额的趋势。
 这也是前端开发的趋势。
 
-<br>
-	最后是我对网新专业的看法！
-![Alt text](/assets/images/geyouu.gif)
 
+<br>
+
+![Alt text](/assets/images/geyouu.gif)
+最后的葛优是我对网新专业的看法！
 
 
 
