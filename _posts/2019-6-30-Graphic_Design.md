@@ -21,7 +21,7 @@ image: assets/images/study_title.jpg
 <br>
 ![Alt text](/assets/images/touhaowanjia.jpg)
 2. 简约风格
-
+<br>
 简约的核心就是：恰如其分。简约风追求极少的色彩勾勒，形式的精简。
 ![Alt text](/assets/images/brief_pink.jpg)
 ![Alt text](/assets/images/brief_giraffe.jpg)
