@@ -24,7 +24,7 @@ image: assets/images/study_title.jpg
 这也是前端开发的趋势。
 <center>
 
-<img src="assets/images/geyouu.gif">
+<img src="/assets/images/geyouu.gif">
 
 </center>
 
