@@ -26,7 +26,7 @@ image: assets/images/study_title.jpg
 
 <br>
 
-<div align=center>![Alt text](/assets/images/geyouu.gif)
+<div align="center">![Alt text](/assets/images/geyouu.gif)
 </div>
 <br>
 最后的葛优是我对网新专业的看法！
