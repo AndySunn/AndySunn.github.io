@@ -17,7 +17,6 @@ image: assets/images/study_title.jpg
 相关联想法：让毫无相干的两个事物成为couple！
 香蕉只能吃？NO！还能当作船！改变你的想法！
 ![Alt text](/assets/images/create_change.jpg)
-
 生活中的小事、小东西也能会有联系吗？
 大拇指，蜡烛，挂衣架？...
 这就是一个全新的想法！
