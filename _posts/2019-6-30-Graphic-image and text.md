@@ -5,7 +5,7 @@ categories:
     - 平面设计
 image: assets/images/study_title.jpg
 ---
-标签： 平面设计  图文结合
+图文结合，实现你的10W+浏览量！
 <!--more-->
 
 + #### 时代在改变，人类的审美不断发生变化
