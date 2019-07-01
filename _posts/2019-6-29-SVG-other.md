@@ -22,7 +22,7 @@ image: assets/images/svg_title.jpg
 
 ![Alt text](/assets/images/picture_label.png)
 结果，还是无法显示效果。
-之后从百度上了解到，<picture>标签目前仍不被浏览器支持，如果想使用picture标签，必须用span标签配合媒体查询或者使用javascript动态返回图片。
+之后从百度上了解到，picture标签目前仍不被浏览器支持，如果想使用picture标签，必须用span标签配合媒体查询或者使用javascript动态返回图片。
 但由于网新专业没有学习js语言，所以我不得不放弃了这个想法...
 
 
