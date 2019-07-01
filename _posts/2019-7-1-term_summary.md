@@ -27,6 +27,8 @@ image: assets/images/study_title.jpg
 <br>
 
 ![Alt text](/assets/images/geyouu.gif)
+
+<br>
 最后的葛优是我对网新专业的看法！
 
 
