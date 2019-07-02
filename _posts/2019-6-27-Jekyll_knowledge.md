@@ -22,6 +22,8 @@ image: assets/images/Jekyll.jpg
 <br>
 ![Alt text](/assets/images/night_face.png)
 
-这个小经历告诉我们当遇到困难卡住时，就不要受到影响陷入深渊，有时候可以找小伙伴寻求帮助，亦可以汲取很多知识。
+#### eg:上传首页Banner 
+此前在尝试上传我的首页Banner时，想上传的图片一直加载不出来，无论我在index.md中修改图片路径，还是更换图片，仍旧没法显示图片，之后我在我的网页Jekyll中检查代码，发现网页给到我的错误是图片并没有得到反馈，也就是网页并没有发现这张图片。
+后来检查我的代码，发现在page-intro.html中，我给它强制加上了一张图片，且图片路径是错误的，导致我在首页banner问题上卡了很多天。之后找到原作者的仓库，将此处的源代码更换，再重新再index.md上直接添加图片路径，问题也就迎刃而解了。
 
-
+![Alt text](/assets/images/banner_problem.png)
